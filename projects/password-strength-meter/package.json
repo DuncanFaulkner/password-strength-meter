@@ -15,7 +15,7 @@
     "email": "antoantony8@gmail.com"
   },
   "keywords": [
-    "angular 17",
+    "angular 18",
     "password-strength",
     "password-strength-component",
     "password-strength-meter",
@@ -24,11 +24,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/antoantonyk/password-strength-meter.git"
+    "url": "https://github.com/DuncanFaulkner/password-strength-meter"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/antoantonyk/password-strength-meter/issues"
+    "url": "https://github.com/DuncanFaulkner/password-strength-meter/issues"
   },
-  "homepage": "https://github.com/antoantonyk/password-strength-meter"
+  "homepage": "https://github.com/DuncanFaulkner/password-strength-meter"
 }
